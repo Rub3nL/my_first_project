@@ -4,3 +4,10 @@ mi nombre es Ruben
 version 2
 
 nueva linea de prueba
+
+cambio 2
+
+======= NUEVA_RAMA_02
+Esta es la pruba que evidencia la creacion de un RAMA
+
+este es una nueva linea agregada en mi rama
